@@ -35,6 +35,19 @@ The course is delivered over 13 teaching weeks. For any new and important
 terms, there will be a glossary section at the end of each tutorial material.
 
 ### Week 0
+We will revisit some of the most important concepts of chemical engineering as
+learned in
+[CHEE2001](https://my.uq.edu.au/programs-courses/course.html?course_code=CHEE2001)
+such as defining system limits, and constructing mass and energy balances. We
+will also revisit the mathematical tools required to succeed in this course
+including;
+ - order of operations (PEDMAS)
+ - Review of mass and energy balances
+ - abstraction of a function as a map
+ - basic calculus
+ - basic linear algebra
+
+### Week 1
 This is to be done in the first week along. Ideally this session should be done
 in addition to the content for [Lesson 01](./Lesson01) in the first teaching
 week. The following notions will be covered;
@@ -43,18 +56,6 @@ week. The following notions will be covered;
  - Basic statistical terminology
  - Programmatic data organisation using
    [pandas](https://pandas.pydata.org/pandas-docs/stable/)
-
-### Week 1
-We will revisit some of the most important concepts of chemical engineering as
-learned in
-[CHEE2001](https://my.uq.edu.au/programs-courses/course.html?course_code=CHEE2001)
-such as defining system limits, and constructing mass and energy balances. We
-will also revisit the mathematical tools required to succeed in this course
-including;
- - order of operations (PEDMAS)
- - abstraction of a function as a map
- - basic calculus
- - basic linear algebra
 
 ### Week 2
 Probability theory and common probability distribution encountered in chemical
