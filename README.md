@@ -84,3 +84,6 @@ determine parameters of interest.
 This will be an off-teaching week. Students will work on their capstone
 proposals together during the tutorial session. They will hand in their report
 at the end of this teaching week.
+
+## Build info 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdMBarry/stats_gh.git/master)       
