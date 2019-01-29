@@ -1,0 +1,8 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py wedgetsnbextension
+jupyter nbextension enable hide_input
+jupyter nbextension eenable hide_input_all
+
+
+jupyter trust index.ipynb
+jupyter trust Lessons/*.ipynb
