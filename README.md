@@ -1,38 +1,16 @@
-# Envineering Investigation and Statistical Analysis (CHEE2010)
-## Introduction and background information
-Engineering at its heart is about decision making, usually in the face of
-incomplete data and uncertainty. Observing, measuring, and correcting for
-uncertainty is thus a required part of the education of any engineering
-student. In this course, we try t ocommunicate statistics and experimentation
-as a part of a set of engineering skills, with a focus on quantitative
-estimation. That means we use bservation of uncertainty t oinfer impact on
-process outputs and parameters. As such, this course is presented in three key
-components;
- - observation of uncertainty
- - estimation of process parameters
- - ways to propagate uncertainty through a pipeline of processes
-This course integrates lectures, practical computing and laboratory
-experimental work using chemical engineering process equipment.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdMBarry/stats_gh.git/master)       
 
-## Course changes
-The content within the course will be presented in a more compact manner than
-previous years. This is so students can favour pondering, understanding, and
-building concepts rather than learning formulae for exams. In order to
-facilitate this method of learning, there will be a particular focus on good
-housekeeping with respect to data organisation, manipulation, files, and
-reusable codes.
 
-This change will shift the focus of summarising data to present an effect size
-as the major finding of the study, and we will use the tools as presented in
-previous years to support effect size summaries.
+# Engineering Investigation and Statistical Analysis (CHEE2010)
+## Instructions for running the slides
+1. Click on the `index.ipynb` file in the directory.
+2. Make sure the eye is greyed out. This hides the generating code. If interested, you can have a look at the code and suggest changes.
+3. Select "Kernel" along the top, and select "Restart & Run All
+4. Click on the "Enter/Exit RISE Slideshow (the icon which looks like a bar graph).
 
-## Getting Started
-The tutorials will be presented using Jupyter Notebooks. **Installation
-instructions for Python using the Miniconda Distribution**
+
 
 ## Course Structure
-The course is delivered over 13 teaching weeks. For any new and important
-terms, there will be a glossary section at the end of each tutorial material.
 
 ### Week 0
 We will revisit some of the most important concepts of chemical engineering as
@@ -84,6 +62,3 @@ determine parameters of interest.
 This will be an off-teaching week. Students will work on their capstone
 proposals together during the tutorial session. They will hand in their report
 at the end of this teaching week.
-
-## Build info 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdMBarry/stats_gh.git/master)       
